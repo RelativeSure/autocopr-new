@@ -1,7 +1,7 @@
 %global debug_package %{nil}
 
 Name:    has
-Version: 1.5.2
+Version: 1.6.0
 Release: 1%{?dist}
 Summary: Checks presence of command line tools and their versions on the path
 BuildArch: noarch
