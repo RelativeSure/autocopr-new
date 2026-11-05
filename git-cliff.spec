@@ -1,7 +1,7 @@
 %global debug_package %{nil}
 
 Name:    git-cliff
-Version: 2.14.1
+Version: 2.14.2
 Release: 1%{?dist}
 Summary: A highly customizable changelog generator that follows Conventional Commits
 
