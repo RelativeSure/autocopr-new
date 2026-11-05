@@ -1,7 +1,7 @@
 %global debug_package %{nil}
 
 Name:    act-cli
-Version: 0.2.89
+Version: 0.2.97
 Release: 1%{?dist}
 Summary: Run GitHub Actions locally
 
