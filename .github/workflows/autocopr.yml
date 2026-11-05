@@ -21,3 +21,6 @@ jobs:
       - uses: aidandenlinger/autocopr@v1
         with:
           mode: "push"
+          ignore: |
+            lucky-commit.spec
+            ghostty.spec
