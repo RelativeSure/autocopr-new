@@ -1,7 +1,7 @@
 %global debug_package %{nil}
 
 Name:    nvm
-Version: 0.40.7
+Version: 0.41.0
 Release: 1%{?dist}
 Summary: POSIX-compliant bash script to manage multiple node.js versions
 
