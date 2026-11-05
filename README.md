@@ -1,2 +1,266 @@
-# autocopr-new
-Automatic COPR updates from GitHub releases, based on autocopr.
+# Autocopr-new
+
+## Description
+
+This COPR repo is for personal and work use. Please go ahead and use this copr repo, be aware that the repo might be abandoned at any point. Feel free to create a GitHub issue if there is any issue with the packages.
+
+## List of packages from the repository root
+
+### Status badges on COPR builds
+
+### [act-cli](act-cli.spec) v0.2.97
+
+[Upstream](https://github.com/nektos/act)
+
+![act-cli status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/act-cli/status_image/last_build.png)
+
+### [atuin](atuin.spec) v18.24.5
+
+[Upstream](https://github.com/atuinsh/atuin)
+
+![atuin status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/atuin/status_image/last_build.png)
+
+### [bandwhich](bandwhich.spec) v0.23.1
+
+[Upstream](https://github.com/imsnif/bandwhich)
+
+![bandwhich status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/bandwhich/status_image/last_build.png)
+
+### [bottom](bottom.spec) v0.15.0
+
+[Upstream](https://github.com/ClementTsang/bottom)
+
+![bottom status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/bottom/status_image/last_build.png)
+
+### [chezmoi](chezmoi.spec) v2.74.0
+
+[Upstream](https://github.com/twpayne/chezmoi)
+
+![chezmoi status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/chezmoi/status_image/last_build.png)
+
+### [cilium-cli](cilium-cli.spec) v0.20.2
+
+[Upstream](https://github.com/cilium/cilium-cli)
+
+![cilium-cli status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/cilium-cli/status_image/last_build.png)
+
+### [eza](eza.spec) v0.23.5
+
+[Upstream](https://github.com/eza-community/eza)
+
+![eza status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/eza/status_image/last_build.png)
+
+### [fastly](fastly.spec) v17.0.0
+
+[Upstream](https://github.com/fastly/cli)
+
+![fastly status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/fastly/status_image/last_build.png)
+
+### [fish](fish.spec) v4.9.3
+
+[Upstream](https://github.com/fish-shell/fish-shell)
+
+![fish status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/fish/status_image/last_build.png)
+
+### [fnm](fnm.spec) v1.39.0
+
+[Upstream](https://github.com/Schniz/fnm)
+
+![fnm status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/fnm/status_image/last_build.png)
+
+### [ghostty](ghostty.spec) v1.3.1
+
+[Upstream](https://github.com/ghostty-org/ghostty)
+
+![ghostty status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/ghostty/status_image/last_build.png)
+
+### [git-cliff](git-cliff.spec) v2.14.2
+
+[Upstream](https://github.com/orhun/git-cliff)
+
+![git-cliff status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/git-cliff/status_image/last_build.png)
+
+### [has](has.spec) v1.6.0
+
+[Upstream](https://github.com/kdabir/has)
+
+![has status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/has/status_image/last_build.png)
+
+### [ingress2gateway](ingress2gateway.spec) v1.2.0
+
+[Upstream](https://github.com/kubernetes-sigs/ingress2gateway)
+
+![ingress2gateway status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/ingress2gateway/status_image/last_build.png)
+
+### [jj](jj.spec) v0.47.1
+
+[Upstream](https://github.com/martinvonz/jj)
+
+![jj status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/jj/status_image/last_build.png)
+
+### [k9s](k9s.spec) v0.51.0
+
+[Upstream](https://github.com/derailed/k9s)
+
+![k9s status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/k9s/status_image/last_build.png)
+
+### [kubeswitch](kubeswitch.spec) v0.9.3
+
+[Upstream](https://github.com/danielfoehrKn/kubeswitch)
+
+![kubeswitch status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/kubeswitch/status_image/last_build.png)
+
+### [kubie](kubie.spec) v0.28.0
+
+[Upstream](https://github.com/sbstp/kubie)
+
+![kubie status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/kubie/status_image/last_build.png)
+
+### [lazydocker](lazydocker.spec) v0.25.2
+
+[Upstream](https://github.com/jesseduffield/lazydocker)
+
+![lazydocker status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/lazydocker/status_image/last_build.png)
+
+### [lazygit](lazygit.spec) v0.66.2
+
+[Upstream](https://github.com/jesseduffield/lazygit)
+
+![lazygit status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/lazygit/status_image/last_build.png)
+
+### [lazyjj](lazyjj.spec) v0.6.1
+
+[Upstream](https://github.com/Cretezy/lazyjj)
+
+![lazyjj status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/lazyjj/status_image/last_build.png)
+
+### [lazynpm](lazynpm.spec) v0.1.4
+
+[Upstream](https://github.com/jesseduffield/lazynpm)
+
+![lazynpm status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/lazynpm/status_image/last_build.png)
+
+### [lstr](lstr.spec) v0.4.0
+
+[Upstream](https://github.com/bgreenwell/lstr)
+
+![lstr status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/lstr/status_image/last_build.png)
+
+### [lua-language-server](lua-language-server.spec) v3.19.2
+
+[Upstream](https://github.com/LuaLS/lua-language-server)
+
+![lua-language-server status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/lua-language-server/status_image/last_build.png)
+
+### [lucky-commit](lucky-commit.spec) v2.2.5
+
+[Upstream](https://github.com/not-an-aardvark/lucky-commit)
+
+![lucky-commit status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/lucky-commit/status_image/last_build.png)
+
+### [mise](mise.spec) v2026.11.2
+
+[Upstream](https://github.com/jdx/mise)
+
+![mise status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/mise/status_image/last_build.png)
+
+### [msedit](msedit.spec) v2.0.0
+
+[Upstream](https://github.com/microsoft/edit)
+
+![msedit status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/msedit/status_image/last_build.png)
+
+### [nvm](nvm.spec) v0.41.0
+
+[Upstream](https://github.com/nvm-sh/nvm)
+
+![nvm status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/nvm/status_image/last_build.png)
+
+### [starship](starship.spec) v1.27.0
+
+[Upstream](https://github.com/starship/starship)
+
+![starship status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/starship/status_image/last_build.png)
+
+### [superfile](superfile.spec) v1.6.0
+
+[Upstream](https://github.com/yorukot/superfile)
+
+![superfile status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/superfile/status_image/last_build.png)
+
+### [topgrade](topgrade.spec) v17.15.0
+
+[Upstream](https://github.com/topgrade-rs/topgrade)
+
+![topgrade status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/topgrade/status_image/last_build.png)
+
+### [usage](usage.spec) v7.2.0
+
+[Upstream](https://github.com/jdx/usage)
+
+![usage status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/usage/status_image/last_build.png)
+
+### [uv](uv.spec) v0.13.7
+
+[Upstream](https://github.com/astral-sh/uv)
+
+![uv status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/uv/status_image/last_build.png)
+
+### [volta](volta.spec) v2.0.2
+
+[Upstream](https://github.com/volta-cli/volta)
+
+![volta status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/volta/status_image/last_build.png)
+
+### [zellij](zellij.spec) v0.45.1
+
+[Upstream](https://github.com/zellij-org/zellij)
+
+![zellij status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/zellij/status_image/last_build.png)
+
+### [zenith](zenith.spec) v0.15.1
+
+[Upstream](https://github.com/bvaisvil/zenith)
+
+![zenith status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/zenith/status_image/last_build.png)
+
+## Following packages are from thirdparty sources
+
+> [!WARNING]
+> The list below contains packages from thirdparty sources.
+
+### dua-cli
+
+![dua-cli status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/dua-cli/status_image/last_build.png)
+
+[Upstream](https://src.fedoraproject.org/rpms/rust-dua-cli)
+
+### feh
+
+![feh status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/feh/status_image/last_build.png)
+
+[Upstream](https://src.fedoraproject.org/rpms/feh)
+
+### python-neovim
+
+![python-neovim status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/python-neovim/status_image/last_build.png)
+
+[Upstream](https://github.com/agriffis/pynvim)
+
+### rust-tealdeer
+
+![rust-tealdeer status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/rust-tealdeer/status_image/last_build.png)
+
+[Upstream](https://src.fedoraproject.org/rpms/rust-tealdeer)
+
+### utf8proc
+
+![utf8proc status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/utf8proc/status_image/last_build.png)
+
+[Upstream](https://github.com/agriffis/utf8proc)
+
+### wezterm
+
+![wezterm status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/wezterm/status_image/last_build.png)
+
+[Upstream](https://github.com/wez/wezterm.git)
