@@ -158,7 +158,7 @@ This COPR repo is for personal and work use. Please go ahead and use this copr r
 
 ![lucky-commit status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/lucky-commit/status_image/last_build.png)
 
-### [mise](mise.spec) v2026.11.4
+### [mise](mise.spec) v2026.11.5
 
 [Upstream](https://github.com/jdx/mise)
 
