@@ -158,7 +158,7 @@ This COPR repo is for personal and work use. Please go ahead and use this copr r
 
 ![lucky-commit status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/lucky-commit/status_image/last_build.png)
 
-### [mise](mise.spec) v2026.11.6
+### [mise](mise.spec) v2026.11.7
 
 [Upstream](https://github.com/jdx/mise)
 
@@ -212,7 +212,7 @@ This COPR repo is for personal and work use. Please go ahead and use this copr r
 
 ![volta status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/volta/status_image/last_build.png)
 
-### [zellij](zellij.spec) v0.45.1
+### [zellij](zellij.spec) v0.46.0
 
 [Upstream](https://github.com/zellij-org/zellij)
 
