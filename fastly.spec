@@ -1,7 +1,7 @@
 %global debug_package %{nil}
 
 Name:    fastly
-Version: 17.0.0
+Version: 17.1.0
 Release: 1%{?dist}
 Summary: Build, deploy and configure Fastly services from your terminal
 
