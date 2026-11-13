@@ -14,7 +14,7 @@ This COPR repo is for personal and work use. Please go ahead and use this copr r
 
 ![act-cli status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/act-cli/status_image/last_build.png)
 
-### [atuin](atuin.spec) v18.24.6
+### [atuin](atuin.spec) v18.24.8
 
 [Upstream](https://github.com/atuinsh/atuin)
 
@@ -38,7 +38,7 @@ This COPR repo is for personal and work use. Please go ahead and use this copr r
 
 ![chezmoi status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/chezmoi/status_image/last_build.png)
 
-### [cilium-cli](cilium-cli.spec) v0.20.2
+### [cilium-cli](cilium-cli.spec) v0.20.3
 
 [Upstream](https://github.com/cilium/cilium-cli)
 
@@ -50,7 +50,7 @@ This COPR repo is for personal and work use. Please go ahead and use this copr r
 
 ![eza status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/eza/status_image/last_build.png)
 
-### [fastly](fastly.spec) v17.0.0
+### [fastly](fastly.spec) v17.1.0
 
 [Upstream](https://github.com/fastly/cli)
 
@@ -200,7 +200,7 @@ This COPR repo is for personal and work use. Please go ahead and use this copr r
 
 ![usage status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/usage/status_image/last_build.png)
 
-### [uv](uv.spec) v0.13.7
+### [uv](uv.spec) v0.13.8
 
 [Upstream](https://github.com/astral-sh/uv)
 
