@@ -50,7 +50,7 @@ This COPR repo is for personal and work use. Please go ahead and use this copr r
 
 ![eza status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/eza/status_image/last_build.png)
 
-### [fastly](fastly.spec) v17.1.0
+### [fastly](fastly.spec) v17.2.0
 
 [Upstream](https://github.com/fastly/cli)
 
@@ -188,7 +188,7 @@ This COPR repo is for personal and work use. Please go ahead and use this copr r
 
 ![superfile status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/superfile/status_image/last_build.png)
 
-### [topgrade](topgrade.spec) v17.16.0
+### [topgrade](topgrade.spec) v17.17.0
 
 [Upstream](https://github.com/topgrade-rs/topgrade)
 
@@ -200,7 +200,7 @@ This COPR repo is for personal and work use. Please go ahead and use this copr r
 
 ![usage status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/usage/status_image/last_build.png)
 
-### [uv](uv.spec) v0.13.8
+### [uv](uv.spec) v0.13.9
 
 [Upstream](https://github.com/astral-sh/uv)
 
