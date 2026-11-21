@@ -14,7 +14,7 @@ This COPR repo is for personal and work use. Please go ahead and use this copr r
 
 ![act-cli status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/act-cli/status_image/last_build.png)
 
-### [atuin](atuin.spec) v18.25.0
+### [atuin](atuin.spec) v18.25.1
 
 [Upstream](https://github.com/atuinsh/atuin)
 
@@ -158,7 +158,7 @@ This COPR repo is for personal and work use. Please go ahead and use this copr r
 
 ![lucky-commit status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/lucky-commit/status_image/last_build.png)
 
-### [mise](mise.spec) v2026.11.10
+### [mise](mise.spec) v2026.11.11
 
 [Upstream](https://github.com/jdx/mise)
 
@@ -182,7 +182,7 @@ This COPR repo is for personal and work use. Please go ahead and use this copr r
 
 ![starship status](https://copr.fedorainfracloud.org/coprs/relativesure/all-packages/package/starship/status_image/last_build.png)
 
-### [superfile](superfile.spec) v1.6.0
+### [superfile](superfile.spec) v1.6.1
 
 [Upstream](https://github.com/yorukot/superfile)
 
